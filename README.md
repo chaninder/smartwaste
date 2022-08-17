@@ -5,6 +5,8 @@ A deep learning application to help you decide whether your household products b
 
 Confused if that egg-carton belongs in the trash or recycle? Not sure what to do with your dead batteries? Classify all you household waste by simply taking or uploading a picture of it on my website/app.
 
+Under the hood, predictions are being made by a classification model that builds upon the classic MobileNetV2 model.
+
 ## Demo-Preview
 
 See the model in production on HuggingFace Spaces: https://huggingface.co/spaces/chaninder/SmartWaste
@@ -28,5 +30,9 @@ After you've given the app a picture, it predicts the category of waste!
 
 - TensorFlow
 - TensorFlow Lite
+- Transfer Learning
 - Flutter
 - Gradio
+- Google Collab
+- Jupyter Notebook
+- Visual Studio Code

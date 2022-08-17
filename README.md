@@ -31,6 +31,7 @@ After you've given the app a picture, it predicts the category of waste!
 - TensorFlow
 - TensorFlow Lite
 - Transfer Learning
+- Git
 - Flutter
 - Gradio
 - Google Collab

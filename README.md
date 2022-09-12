@@ -37,3 +37,10 @@ After you've given the app a picture, it predicts the category of waste!
 - Google Collab
 - Jupyter Notebook
 - Visual Studio Code
+
+## Next Steps
+
+1. Getting a Flutter developer onboard to create a more asthetic UI/interface for the app
+2. Image Segmentation: Two new features to incorporate:
+  (1) User can take a picture of MULTIPLE items (rather than just one). The model will output the proper label for each image. 
+  (2) Real-time labeling - User takes a video and the app labels each item in real time.
